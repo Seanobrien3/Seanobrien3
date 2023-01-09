@@ -1,16 +1,9 @@
-### Hi there 👋
+### Hi there 👋 my name is Sean O'Brien
 
-<!--
-**Seanobrien3/Seanobrien3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- My name is Sean O'Brien
 - I am currently a student at Walpole high School
-- 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🤔 I’m looking for help with Creating different, creative websites
+- 💬 Ask me about Anything!
 - 📫 How to reach me: obriens23@wpsma.org
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I play basketball and football
+
